@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.paper {
+  flex-wrap: wrap;
+  background: #3c3e44;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  margin: 10px;
+}
+
+.imgPP {
+  float: left;
+  width: 150px;
+}

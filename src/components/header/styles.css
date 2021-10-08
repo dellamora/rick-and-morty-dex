@@ -1,0 +1,12 @@
+.navcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  color: #36c2a0;
+}
+.navcontainer img {
+  height: 100px;
+}
